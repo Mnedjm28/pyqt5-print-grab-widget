@@ -27,9 +27,9 @@ The script shows how to:
   ```
 
 3. Install dependencies from the requirements.txt file:
-    ```bash
-    pip install -r requirements.txt
-     ```
+  ```bash
+  pip install -r requirements.txt
+  ```
     
 3. Run the application:
     ```bash
