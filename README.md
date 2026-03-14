@@ -18,20 +18,20 @@ The script shows how to:
 
 ## Installation
 1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/pyqt-widget-printer.git
-```
+    ```bash
+    git clone https://github.com/your-username/pyqt-widget-printer.git
+    ```
 2. Navigate to the project folder:
-```bash
-cd pyqt-widget-printer.
-```
+    ```bash
+    cd pyqt-widget-printer.
+    ```
 
 3. Install dependencies from the requirements.txt file:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
     
 4. Run the application:
-```bash
-python main.py
-```
+    ```bash
+    python main.py
+    ```
