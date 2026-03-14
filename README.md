@@ -19,11 +19,11 @@ The script shows how to:
 ## Installation
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/your-username/pyqt-widget-printer.git
+    git clone https://github.com/Mnedjm28/pyqt5-print-grab-widget
     ```
 2. Navigate to the project folder:
     ```bash
-    cd pyqt-widget-printer.
+    cd pyqt5-print-grab-widget
     ```
 
 3. Install dependencies from the requirements.txt file:
